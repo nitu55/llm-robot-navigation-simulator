@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LLM-Powered Robot Navigation Simulator 🤖
 
 A software-based robot navigation simulator built with **Python, Pygame, A* path planning, virtual sensors, and a Large Language Model (LLM)**. The project simulates a robot navigating a grid-based environment, detecting obstacles through virtual sensors, and planning routes toward a goal.
@@ -127,3 +128,7 @@ Electrical Engineering Student | Interested in Robotics, Artificial Intelligence
 ## 📄 License
 
 A license can be added to this project when you decide how others may use, modify, and distribute the code.
+=======
+# llm-robot-navigation-simulator
+LLM-powered robot navigation simulator using Python, Pygame, A* path planning, and virtual sensors.
+>>>>>>> 34366f303bef37a696e526d354a1656c4561ec5a
